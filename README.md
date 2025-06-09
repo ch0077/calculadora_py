@@ -3,12 +3,9 @@
 
 Este é um projeto simples de uma calculadora básica em Python que realiza operações de soma, subtração, multiplicação e divisão.
 
-Funcionalidades
+# Funcionalidades
 
-Soma
-Subtração
-Multiplicação
-Divisão (com tratamento para divisão por zero)
+Soma, Subtração ,Multiplicação e Divisão (com tratamento para divisão por zero)
 Saída do programa
 
 ## Como usar
